@@ -54,6 +54,18 @@ Currently,I am a Computer Science Major @ UNLV. Focused on performance, clean ab
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randyp2&layout=compact&theme=transparent&hide_border=true)
 
+━━━━━━━━━━━━━━━━━━━━━━
+## Activity & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyp2&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=randyp2&theme=transparent&hide_border=true" />
+</p>
+
+
 
 <!--
 **randyp2/randyp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
