@@ -1,4 +1,12 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+# Randy Pahang II
+
+I build production-grade software at the intersection of systems design, AI, and scalable web infrastructure.
+
+Computer Science @ UNLV. Focused on performance, clean abstractions, and real-world impact.
+
+━━━━━━━━━━━━━━━━━━━━━━
 
 <!--
 **randyp2/randyp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
