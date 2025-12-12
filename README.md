@@ -47,6 +47,12 @@ Currently,I am a Computer Science Major @ UNLV. Focused on performance, clean ab
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2933?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Linux](https://img.shields.io/badge/Linux-1f2933?style=for-the-badge&logo=linux&logoColor=FCC624)
 
+━━━━━━━━━━━━━━━━━━━━━━
+## GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=randyp2&bg_color=0d1117&color=9ca3af&line=9ca3af&point=ffffff&area=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randyp2&layout=compact&theme=transparent&hide_border=true)
 
 
 <!--
