@@ -52,10 +52,10 @@ Currently,I am a Computer Science Major @ UNLV. Focused on performance, clean ab
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=randyp2&bg_color=0d1117&color=9ca3af&line=9ca3af&point=ffffff&area=true&hide_border=true)
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=randyp2&theme=transparent&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randyp2&theme=github_dark" />
 </p>
+
 
 
 
