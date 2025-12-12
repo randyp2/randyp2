@@ -52,32 +52,12 @@ Currently,I am a Computer Science Major @ UNLV. Focused on performance, clean ab
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=randyp2&bg_color=0d1117&color=9ca3af&line=9ca3af&point=ffffff&area=true&hide_border=true)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=randyp2&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyp2&layout=compact&theme=transparent&hide_border=true" />
 </p>
-
-
 ━━━━━━━━━━━━━━━━━━━━━━
-## Activity & Languages
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=randyp2&theme=transparent&hide_border=true" />
-</p>
-
-
-
-<!--
-**randyp2/randyp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
